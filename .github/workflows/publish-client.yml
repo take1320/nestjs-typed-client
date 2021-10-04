@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 12.x
           registry-url: https://npm.pkg.github.com/
-          scope: "@yktakaha4"
+          scope: "@take1320"
 
       - run: npm ci
         working-directory: ./backend
