@@ -12,7 +12,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
-    "url": "https://github.com/yktakaha4/nestjs-typed-client.git",
+    "url": "https://github.com/take1320/nestjs-typed-client.git",
     "directory": "client"
   },
   "scripts": {
